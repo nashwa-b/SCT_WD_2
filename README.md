@@ -21,7 +21,7 @@ An interactive and user-friendly stopwatch web app that allows users to start, p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stopwatch-app.git
+   git clone https://github.com/nashwa-b/stopwatch-app.git
 
 ## 📄 License
 
