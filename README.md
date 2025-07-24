@@ -17,6 +17,13 @@ An interactive and user-friendly stopwatch web app that allows users to start, p
 - CSS
 - JavaScript
 
+## Project Structure
+   /Stopwatch Web App
+   
+├── index.html         
+├── style.css          
+├── script.js          
+
 ##  How to Run Locally
 
 1. Clone the repository:
