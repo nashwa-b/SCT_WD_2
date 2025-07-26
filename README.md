@@ -2,8 +2,6 @@
 
 An interactive and user-friendly stopwatch web app that allows users to start, pause, reset, and record lap times. Built using HTML, CSS, and JavaScript, this application provides an accurate and clean way to track and manage time intervals right from the browser.
 
-##  Screenshots
-![Stopwatch Screenshot](./screenshots/stopwatch.png)
 
 ##  Features
 - Start, pause, and reset stopwatch
